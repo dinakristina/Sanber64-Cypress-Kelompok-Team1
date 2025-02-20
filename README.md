@@ -2,7 +2,7 @@
 Team 1 - Sanbercode64
 
 ## Anggota Kelompok:
-1. Dina Kristina (https://github.com/dinakristina)
-2. Nama 2 - [@username2](https://github.com/username2)
+1. Dina Kristina - [@dinakristina](https://github.com/dinakristina)
+2. Rizky Yulian Maulana - [@rizkym99](https://github.com/rizkym99)
 3. Nama 3 - [@username3](https://github.com/username3)
 
