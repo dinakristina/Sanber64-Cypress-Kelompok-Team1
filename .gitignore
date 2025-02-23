@@ -1,4 +1,3 @@
-node_modules/ 
 node_modules/      # Folder dependensi
 package-lock.json  # Lock file (opsional)
 .env               # File konfigurasi rahasia (jika ada)
