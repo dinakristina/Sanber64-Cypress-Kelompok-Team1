@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "sanbercode",
   "version": "1.0.0",
   "main": "index.js",
@@ -8,6 +9,26 @@
   "author": "",
   "license": "ISC",
   "description": "",
+=======
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Team 1 - Sanbercode64",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinakristina/Sanber64-Cypress-Kelompok-Team1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinakristina/Sanber64-Cypress-Kelompok-Team1/issues"
+  },
+  "homepage": "https://github.com/dinakristina/Sanber64-Cypress-Kelompok-Team1#readme",
+>>>>>>> adfcfb79c37070864c366b295e89a87b547539b7
   "devDependencies": {
     "cypress": "^14.0.3"
   }
